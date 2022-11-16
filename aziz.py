@@ -1,5 +1,4 @@
 import time
-import webbrowser
 from colorama import Fore, init
 
 init()
